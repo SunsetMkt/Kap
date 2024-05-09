@@ -109,7 +109,7 @@
     "@typescript-eslint/parser": "^4.15.0",
     "ava": "^3.15.0",
     "babel-eslint": "^10.1.0",
-    "electron": "13.6.9",
+    "electron": "22.3.25",
     "electron-builder": "^23.3.3",
     "electron-builder-notarize": "^1.4.0",
     "eslint-config-xo": "^0.35.0",
